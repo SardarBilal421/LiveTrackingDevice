@@ -1,0 +1,16 @@
+{
+  "name": "livetrackingdevice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "Sardar Bilal Rehman",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
